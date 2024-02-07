@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Text_Summarization"
 AUTHOR_USER_NAME = "AnuS2003"
-SRC_REPO = "textSummarizer"
+SRC_REPO = "text_Summarizer"
 AUTHOR_EMAIL = "21a04.anupama@sjec.ac.in"
 
 
